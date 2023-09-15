@@ -1,4 +1,3 @@
 # blog-project
-blog project for udacity
 
-hello world
+blog project for udacity
